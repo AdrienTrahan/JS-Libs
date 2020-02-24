@@ -2,3 +2,4 @@
 Dom Libraries for js
 - TableView
 - CollectionView
+- SegmentedView
