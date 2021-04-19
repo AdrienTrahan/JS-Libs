@@ -3,7 +3,7 @@ Dom Libraries for js
 - TableView
 - CollectionView
 - SegmentedView
-```
+```javascript
 let tableView = new TableView("tableview");
 tableView.setRowCount(10, (cell, index) => {
     cell.innerHTML = "this is row: " + index
